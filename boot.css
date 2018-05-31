@@ -1,0 +1,37 @@
+.jumbotron
+{
+background-color:#FF7256;
+
+}
+
+body
+{
+
+}
+
+table
+{font-size:16px;
+	border-collapse:collapse;
+	width:60%;}
+td
+{padding:5px;
+}
+table
+{
+border:5px solid block;
+}
+
+footer
+{
+background-color:#999999;
+margin-left:0px;
+margin-right:0px;
+}
+
+.well
+{
+font-size:16px;
+background-color:#7EC0EE;
+margin-left:50px;
+margin-right:50px;
+}
